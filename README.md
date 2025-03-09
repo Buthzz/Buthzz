@@ -7,11 +7,11 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Buthzz-blue">
   </p>
- <p align="center">
+<!--  <p align="center">
   <a href="https://twitter.com/mfjrxn" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=twitter" /></a> 
   <a href="https://instagram.com/mfjrxn" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=instagram" /> </a>
    <a href="https://t.me/mfjrxn_bot" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=telegram" /> </a>
-</p>
+</p> -->
 
 ## &#x1f4c8; GitHub Stats 
 [![hexfjr github stats](https://github-readme-stats.vercel.app/api?username=Buthzz&show_icons=true&theme=radical)](https://github.com/Buthzz) <br>
